@@ -2,12 +2,7 @@
 Campus hostels and offices at MIT-ADT University currently rely on manual paper registers and phone calls to manage parcel deliveries. Students have no visibility into whether their parcel has arrived, and security staff have no digital tool to track or batch deliveries.
 Smart Campus Parcel Management System replaces this manual process with a real-time digital platform that tracks every parcel from the moment it arrives at the campus gate to verified collection by the student.
 
-👥 Team
-NamePRNRoleKrushna Ganesh KumbharADT24SOCB0568Full Stack / FlutterSakshi Duryodhan ShindeADT24SOCB0991UI / FirebaseDax Hareshbhai PatelADT24SOCB0344Backend / Testing
-Project Guide: Dr. Ram Kumar Solanki
-Department: School of Computing, MIT-ADT University
-Academic Year: 2025–26
-Subject: Project Based Learning (PBL)
+
 
 🎯 Problem Statement
 
@@ -73,12 +68,8 @@ Android Studio / VS Code
 Firebase project (Firestore + FCM enabled)
 Android emulator or physical device
 
-Installation
-bash# Clone the repository
-git clone https://github.com/b1t79/Smart-Campus-Management-System.git
 
-# Navigate to project directory
-cd Smart-Campus-Management-System
+
 
 # Install dependencies
 flutter pub get
